@@ -1,0 +1,17 @@
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\bin\Debug\net6.0\Propizdation_AKA_10_pract.exe
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\bin\Debug\net6.0\Propizdation_AKA_10_pract.deps.json
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\bin\Debug\net6.0\Propizdation_AKA_10_pract.runtimeconfig.json
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\bin\Debug\net6.0\Propizdation_AKA_10_pract.dll
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\bin\Debug\net6.0\Propizdation_AKA_10_pract.pdb
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\Propizdation_AKA_10_pract.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\Propizdation_AKA_10_pract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\Propizdation_AKA_10_pract.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\Propizdation_AKA_10_pract.AssemblyInfo.cs
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\Propizdation_AKA_10_pract.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\Propizdation_AKA_10_pract.csproj.CopyComplete
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\Propizdation_AKA_10_pract.dll
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\refint\Propizdation_AKA_10_pract.dll
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\Propizdation_AKA_10_pract.pdb
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\Propizdation_AKA_10_pract.genruntimeconfig.cache
+C:\Users\serge\source\repos\Propizdation_AKA_10_pract\Propizdation_AKA_10_pract\obj\Debug\net6.0\ref\Propizdation_AKA_10_pract.dll
